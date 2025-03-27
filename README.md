@@ -22,12 +22,12 @@ Welcome to **TeamSync Data Manager**, a simple and efficient web application des
 
 
 ### Installation
-This project requires backend and front end setup seperately. To see how to setup backend go to https://github.com/username/teamsync-backend-flask.git
-Follow these steps to set up TeamSync locally:
+This project requires backend and front end setup seperately. To see how to setup backend go to https://github.com/anirudh9260/teamsync-backend-flask.git
+Follow these steps to set up TeamSync Frontend locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/teamsync-frontend-react.git
+git clone https://github.com/anirudh9260/teamsync-frontend-react.git
 
 ```
 
