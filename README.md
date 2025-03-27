@@ -69,12 +69,6 @@ npm start
 - Add or remove team members.
 - Assign roles (e.g., Admin, Editor, Viewer) to control access levels.
 
-## Support
-
-If you encounter any issues or have questions:
-- Contact your team admin.
-- Email our support team at `anirudh.88@live.in`.
-
 
 ## Project Structure
 ```bash
@@ -90,6 +84,11 @@ NewsBite/
 └── docs/             # Documentatio
 ```
 
+## Support
+
+If you encounter any issues or have questions:
+- Contact your team admin.
+- Email our support team at `anirudh.88@live.in`.
 
 ## License
 This project is licensed under the MIT License - see the  file for details.
